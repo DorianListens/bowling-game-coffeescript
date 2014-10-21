@@ -40,4 +40,4 @@ class Game
     rolls = {}
     @currentRoll = 0
 
-module.exports = Game
+# window.Game = Game

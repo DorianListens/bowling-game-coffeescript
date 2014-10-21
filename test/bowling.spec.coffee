@@ -1,4 +1,4 @@
-Game = require '../bowling-game'
+# Game = require '../bowling-game'
 describe "Game", ->
   g = new Game()
   rollMany = (n, pins) ->
